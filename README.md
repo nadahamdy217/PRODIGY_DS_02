@@ -10,6 +10,4 @@ The analysis concludes with a concise presentation of the distribution of the 'S
 <br>
 ![image](https://github.com/nadahamdy217/PRODIGY_DS_02/assets/115176121/c2ddc360-b160-499f-a94c-97f25c175e40)
 <br>
-![image](https://github.com/nadahamdy217/PRODIGY_DS_02/assets/115176121/2a97a4b2-6914-4270-b2ed-caca46a14573)
-<br>
 ![image](https://github.com/nadahamdy217/PRODIGY_DS_02/assets/115176121/3fc4f5ec-7256-4a9b-9927-4ba5ed9158aa)
